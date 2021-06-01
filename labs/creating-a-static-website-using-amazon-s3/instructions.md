@@ -44,5 +44,5 @@ In this AWS hands-on lab, we will create and configure a simple static website h
       
     * Click Save changes.
 5.  View Your Website
-   * The listed endpoint URL within the Static website hosting section of the Bucket Properties tab will be what you use to access your static site.
-   * `index.html` will be your homepage and you can view the `error.html` file if you navigate to a URL that's invalid... like `<endpoint URL>/<some fake page>`
+    * The listed endpoint URL within the Static website hosting section of the Bucket Properties tab will be what you use to access your static site.
+    * `index.html` will be your homepage and you can view the `error.html` file if you navigate to a URL that's invalid... like `<endpoint URL>/<some fake page>`
